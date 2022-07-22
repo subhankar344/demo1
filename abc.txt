@@ -2,3 +2,6 @@ jjjjj
 llll
 lll
 
+
+#added new lines to git-new
+kjkjkjkjlkj
